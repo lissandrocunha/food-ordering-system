@@ -14,4 +14,11 @@
     <properties>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>br.com.lissandrocunha</groupId>
+            <artifactId>order-application-service</artifactId>
+        </dependency>
+    </dependencies>
+
 </project>
