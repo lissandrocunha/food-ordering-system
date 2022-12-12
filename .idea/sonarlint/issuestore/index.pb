@@ -5,5 +5,3 @@ E
 order-service/pom.xml,d\3\d3bf53ecc442740843266a635cbfe9807b992566
 l
 <order-service/order-domain/order-application-service/pom.xml,7\8\788638a3f575d9e226f07937dfe43f5e87b6139f
-d
-4order-service/order-domain/order-domain-core/pom.xml,e\2\e2c9ec2a77daaaa98761010294a2cfad7cd6acdd
